@@ -7,3 +7,7 @@ Um programa de BlackList para League of Legends
 ## Features:
 
 - Dois cliques abre o br.op.gg.
+
+## About:
+
+- Repositório abordando estruturas do [projeto](hhttps://github.com/weiwang11/Blacklist "projeto")
