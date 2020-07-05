@@ -10,4 +10,4 @@ Um programa de BlackList para League of Legends
 
 ## About:
 
-- Repositório abordando estruturas do [projeto](hhttps://github.com/weiwang11/Blacklist "projeto")
+- Repositório abordando estruturas do [projeto](hhttps://github.com/weiwang11/Blacklist "projeto").
