@@ -64,11 +64,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBlacklist.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnBlacklist.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBlacklist.Location = new System.Drawing.Point(649, 134);
+            this.btnBlacklist.Location = new System.Drawing.Point(729, 134);
             this.btnBlacklist.Name = "btnBlacklist";
-            this.btnBlacklist.Size = new System.Drawing.Size(165, 32);
+            this.btnBlacklist.Size = new System.Drawing.Size(85, 30);
             this.btnBlacklist.TabIndex = 2;
-            this.btnBlacklist.Text = "ADD +";
+            this.btnBlacklist.Text = "Adicionar";
             this.btnBlacklist.UseVisualStyleBackColor = true;
             this.btnBlacklist.Click += new System.EventHandler(this.btnBlacklist_Click);
             // 
@@ -112,9 +112,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(556, 181);
+            this.pictureBox1.Location = new System.Drawing.Point(598, 170);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(258, 96);
+            this.pictureBox1.Size = new System.Drawing.Size(216, 119);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
